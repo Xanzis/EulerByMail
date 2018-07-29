@@ -10,7 +10,7 @@ The rules:
 
 Bookkeeping:
 - We should make programs one at a time
-- Depending on their status, programs will have names like "E002_current.sage" or "E037_done.sage"
+- Depending on their status, programs will have names like "E2_current.sage" or "E37_done.sage"
 - I don't think we have to go through project euler sequentially - let's just pick out ones (starting easy) that will be fun to do.
 
 ____________
@@ -18,3 +18,4 @@ ____________
 Progress:
 
 30 - empty
+https://projecteuler.net/problem=30
