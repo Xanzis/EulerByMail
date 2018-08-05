@@ -9,5 +9,5 @@ _sum = 0
 for i in range(10^6):
 	if isfifthpowersum(i):
 		_sum += i
-print sum
+print _sum - 1
 
