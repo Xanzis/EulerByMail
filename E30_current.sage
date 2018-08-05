@@ -1,3 +1,3 @@
-print "hello world"
+Yeah print "hello world"
 def fithpowersum(number):
-	return sum([d^5 for d in number.digits(10])
+	return sum([d^5 for d in number.digits(10)])
