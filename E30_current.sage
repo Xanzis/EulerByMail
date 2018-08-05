@@ -1,3 +1,3 @@
 print "hello world"
-def fifthpowersum(number):
-	return sum([int(d)^5 for d in str(number)])
+def fithpowersum(number):
+	return sum([d^5 for d in number.digits(10])
